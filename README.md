@@ -1,3 +1,9 @@
 # iMusic
+Music application on HTML, CSS, Javascript
 
-<a href="https://saintsungminpark.github.io/imusic/imusic.html">iMusic</a><br>
+## features
+
+## demo
+[https://saintsungminpark.github.io/imusic.html](https://saintsungminpark.github.io/imusic.html)
+                
+![ex_screenshot](./screenshot.jpg)
