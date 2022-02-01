@@ -42,7 +42,7 @@
 .bestM .best-title .bt-desc {font-size: 22px; font-weight: 300; color: #818181; margin-bottom: 10px;}
 
 /* recentM */
-.recentM {padding: 10px 0; margin-top: 19px; overflow: hidden;}
+.recentM {padding: 10px 0; overflow: hidden;}
 .recentM .recent {float: left; width: 49%; margin-right: 2%;}
 .recentM .recent:last-child {margin-right: 0;}
 .recentM h2 {font-size: 20px; font-weight: bold; margin-bottom: 12px; margin-top: 16px; padding-top: 20px; border-top: 1px solid #EBEBEB;}
@@ -52,13 +52,6 @@
 /* nextM */
 .nextM h2 {font-size: 20px; font-weight: bold; margin-bottom: 12px; margin-top: 16px; padding-top: 20px; border-top: 1px solid #EBEBEB;}
 .nextM .next {display: flex; margin-bottom: 16px; position: relative;}
-.nextM .next:after {
-    content: '';
-    position: absolute; right: 0; bottom: -8px;
-    width: calc(100% - 114px);
-    height: 1px; 
-    background: #ebebeb;
-}
 .nextM .next .next-img {width: 102px; margin-right: 12px; }
 .nextM .next .next-tit {display: flex; flex-direction: column; justify-content: center;}
 .nextM .next .next-tit .nt-stit {color: #da5e7c; font-size: 12px;}
