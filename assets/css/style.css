@@ -42,7 +42,7 @@
 .bestM .best-title .bt-desc {font-size: 22px; font-weight: 300; color: #818181; margin-bottom: 10px;}
 
 /* recentM */
-.recentM {padding: 10px 0; overflow: hidden;}
+.recentM {overflow: hidden;}
 .recentM .recent {float: left; width: 49%; margin-right: 2%;}
 .recentM .recent:last-child {margin-right: 0;}
 .recentM h2 {font-size: 20px; font-weight: bold; margin-bottom: 12px; margin-top: 16px; padding-top: 20px; border-top: 1px solid #EBEBEB;}
